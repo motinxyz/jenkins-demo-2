@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>Jenkins Demo</title>
-    <link rel="stylesheet" href="css/index.css" type="text/css" />
+    <link rel="stylesheet" href="css/index.css" />
   </head>
   <body>
     <div class="container">
